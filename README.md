@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - I may be from Earth...
 - PM me on Ask to contact me [Replit Ask](ask.replit.com)
 - Use my invite link https://ask.replit.com/invites/8dejgGVmnS
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SalladShooter&theme=algo&show_icons=true)](https://github.com/SalladShooter/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=SalladShooter&theme=algolia&show_icons=true)](https://github.com/SalladShooter)
