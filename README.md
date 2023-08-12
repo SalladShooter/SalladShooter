@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![](https://komarev.com/ghpvc/?username=SalladShooter)
+![](https://komarev.com/ghpvc/?username=SalladShooter)
 
 - He/Him 
 - Am I an appliance or am I human? I mainly code in Python 3. I am ‘trying’ to learn C++.
