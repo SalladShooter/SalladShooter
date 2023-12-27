@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=SalladShooter&color=brightgreen)
 
 - He/Him 
-- Am I an appliance or am I human? I mainly code in Python 3. I am ‘trying’ to learn C++.
+- I am a Frontend dev with 4+ years of experience. Am I an appliance or am I human?
 - I may be from Earth...
 - PM me on Ask to contact me [Replit Ask](ask.replit.com)
 - Use my invite link https://ask.replit.com/invites/8dejgGVmnS
