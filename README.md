@@ -1,35 +1,11 @@
 ### Hi there 👋
 
-<!--
-**SalladShooter/SalladShooter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![](https://komarev.com/ghpvc/?username=SalladShooter&color=brightgreen)
 
 - He/Him 
 - I am a Fullstack dev with 5+ years of experience. Am I an appliance or am I human?
+- PM me on Ask to contact me [Replit Ask](https://ask.replit.com/u/salladshooter/summary)
+- Website: [salladshooter.replit.app](https://salladshooter.replit.app)
 - I may be from Earth...
-- PM me on Ask to contact me [Replit Ask](ask.replit.com)
-- Use my invite link https://ask.replit.com/invites/8dejgGVmnS
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SalladShooter&theme=algo&show_icons=true)](https://github.com/SalladShooter/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=SalladShooter&theme=algolia&show_icons=true)](https://github.com/SalladShooter)
+![Metrics](https://metrics.lecoq.io/SalladShooter?template=classic&repositories.forks=true&languages=1&lines=1&habits=1&stars=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=America%2FChicago)\
