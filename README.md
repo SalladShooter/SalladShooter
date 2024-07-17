@@ -4,8 +4,7 @@
 
 - He/Him 
 - I am a Fullstack dev with 5+ years of experience. Am I an appliance or am I human?
-- PM me on Ask to contact me [Replit Ask](https://ask.replit.com/u/salladshooter/summary)
-- Website: [salladshooter.replit.app](https://salladshooter.replit.app)
+- [salladshooter.replit.app](https://salladshooter.replit.app)
 - I may be from Earth...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salladshooter&show_icons=true&theme=dark)
