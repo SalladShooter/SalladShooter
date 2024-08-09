@@ -1,12 +1,50 @@
-### Hi there 👋
+### Hi There I'm SalladShooter 👋
 
 ![](https://komarev.com/ghpvc/?username=SalladShooter&color=brightgreen)
 
-- He/Him 
-- I am a Fullstack dev with 5+ years of experience. Am I an appliance or am I human?
-- [salladshooter.replit.app](https://salladshooter.replit.app)
-- I may be from Earth...
+Am I an appliance or am I human? I have been programming for over 5 years! I mostly work on small projects, but have a few large ones in the works.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salladshooter&show_icons=true&theme=dark)
+## 🛠️ What I'm Working On
 
-![Metrics](https://metrics.lecoq.io/SalladShooter?template=classic&repositories.forks=true&languages=1&lines=1&habits=1&stars=1&achievements=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&fortune=false&config.timezone=America%2FChicago)
+- [phyal](https://phyal.vercel.app) an Opensource Python Framework that removes the need for HTML
+- A notes and task manager on a whole other level
+- An updated portfolio
+- Much more...
+
+### 💻 Coding Languages
+
+- Python
+- C
+- JavaScript
+- HTML
+- CSS
+- ReactJS
+- TailwindCSS
+
+### 🌎 Languages
+
+- English
+  #### Partial
+  - Norsk (Bokmål) / Norwegian
+  - Español / Spanish
+ 
+### 🏠 Projects
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salladshooter&repo=phyal&theme=dark&hide_border=true&bg_color=45,000,121b2b)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=salladshooter&repo=phyal&theme=dark&hide_border=true&bg_color=45,000,121b2b" />
+</a>
+
+  
+### 📊 Stats
+
+<!-- [![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salladshooter&theme=dark&hide_border=true&bg_color=45,000,121b2b&langs_count=7&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My Stats](https://github-readme-stats.vercel.app/api?username=salladshooter&theme=dark&hide_border=true&bg_color=45,000,121b2b&ring_color=05f605)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salladshooter&theme=dark&hide_border=true&bg_color=45,000,121b2b&langs_count=7&layout=pie" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=salladshooter&theme=dark&hide_border=true&bg_color=45,000,121b2b&ring_color=fff" />
+</a>
