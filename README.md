@@ -46,5 +46,5 @@ Am I an appliance or am I human? I have been programming for over 5 years! I mos
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salladshooter&theme=dark&hide_border=true&bg_color=45,000,121b2b&langs_count=7&layout=pie" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=salladshooter&theme=dark&hide_border=true&bg_color=45,000,121b2b&ring_color=fff" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=salladshooter&theme=dark&hide_border=true&bg_color=45,000,121b2b&ring_color=fff&include_all_commits=true" />
 </a>
