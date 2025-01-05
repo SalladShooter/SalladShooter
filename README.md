@@ -7,26 +7,25 @@ Am I an appliance or am I human? I have been programming for over 5 years! I mos
 ## 🛠️ What I'm Working On
 
 - [phyal](https://phyal.vercel.app) an Opensource Python Framework that removes the need for HTML
-- A notes and task manager on a whole other level
-- An updated portfolio
+- Roguelite Clicker Game
 - Much more...
 
 ### 💻 Coding Languages
 
-- Python
-- C
-- JavaScript
-- HTML
-- CSS
-- ReactJS
-- TailwindCSS
+- Python [ FLUENT ]
+- HTML [ FLUENT ]
+- CSS [ FLUENT ]
+- C [ BASIC ]
+- JavaScript [ BASIC ]
+- ReactJS [ BASIC ]
+- TailwindCSS [ BASIC ]
 
 ### 🌎 Languages
 
 - English
   #### Partial
-  - Norsk (Bokmål) / Norwegian
-  - Español / Spanish
+  - Norsk (Bokmål) / Norwegian Bokmål [ B1-B2 ]
+  - Español / Spanish [ A2-B1 ]
  
 ### 🏠 Projects
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=salladshooter&repo=phyal&theme=dark&hide_border=true&bg_color=45,000,121b2b)](https://github.com/anuraghazra/github-readme-stats) -->
