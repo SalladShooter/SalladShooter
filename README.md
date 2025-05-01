@@ -15,6 +15,7 @@ Am I an appliance or am I human? I have been programming for over 5 years! I mos
 - Python [ FLUENT ]
 - HTML [ FLUENT ]
 - CSS [ FLUENT ]
+- Rust [ BASIC ]
 - C [ BASIC ]
 - JavaScript [ BASIC ]
 - ReactJS [ BASIC ]
