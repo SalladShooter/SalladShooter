@@ -7,7 +7,7 @@ Am I an appliance or am I human? I have been programming for over 5 years! I mos
 ## 🛠️ What I'm Working On
 
 - [phyal](https://phyal.vercel.app) an Opensource Python Framework that removes the need for HTML
-- Roguelite Clicker Game
+- [Naviminga](https://salladshooter.github.io/Naviminga) a website for my constructed language (conlang), Naviminga
 - Much more...
 
 ### 💻 Coding Languages
